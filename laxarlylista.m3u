@@ -21,5 +21,5 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 tvg-name="VAMOS",VAMOS
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 tvg-name="LALIGA SMARTBANK",LALIGA SMARTBANK
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-santander-v/laliga-santander-v-600x600.jpg" tvg-name="LALIGA SMARTBANK",LALIGA SMARTBANK
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
