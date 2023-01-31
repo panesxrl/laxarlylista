@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-600x600.jpg" tvg-name="MOVISTAR LALIGA",MOVISTAR LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="MOVISTAR LALIGA",MOVISTAR LALIGA
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" tvg-name="DAZN LALIGA",DAZN LALIGA
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" tvg-name="FORMULA 1",FORMULA 1
 acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
-#EXTINF:-1 tvg-name="DAZN 1",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" tvg-name="DAZN 1",DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 tvg-name="DAZN 2",DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" tvg-name="DAZN 2",DAZN 2
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" tvg-name="DAZN 3",DAZN 3
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" tvg-name="DAZN 4",DAZN 4
 acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 tvg-name="EUROSPORT 1",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" tvg-name="EUROSPORT 1",EUROSPORT 1
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 tvg-name="EUROSPORT 2",EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.svg/512px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT 2",EUROSPORT 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 tvg-name="VAMOS",VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" tvg-name="VAMOS",VAMOS
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-600x600.jpg" tvg-name="LALIGA SMARTBANK",LALIGA SMARTBANK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" tvg-name="LALIGA SMARTBANK",LALIGA SMARTBANK
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
