@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-600x600.jpg" tvg-name="MOVISTAR LALIGA",MOVISTAR LALIGA
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 tvg-name="DAZN LALIGA",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg" tvg-name="DAZN LALIGA",DAZN LALIGA
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
