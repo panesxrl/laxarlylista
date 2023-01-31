@@ -5,7 +5,7 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-name="LIGA DE CAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 tvg-name="FORMULA 1",FORMULA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/DAZN_F1_logo.svg" tvg-name="FORMULA 1",FORMULA 1
 acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 #EXTINF:-1 tvg-name="DAZN 1",DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
