@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="MOVISTAR LA LIGA TV",LA LIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="M+ LA LIGA TV",LA LIGA TV
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" tvg-name="DAZN LA LIGA",DAZN LA LIGA
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" tvg-name="DAZN F1",DAZN F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" tvg-name="M+ DAZN F1",DAZN F1
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" tvg-name="DAZN 1",DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
@@ -19,11 +19,11 @@ acestream://149a38e333de920753f1388c43247283bdb05f5b
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/400px-Eurosport_2_Logo_2015.png" tvg-name="EUROSPORT 2",EUROSPORT 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" tvg-name="VAMOS",VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" tvg-name="M+ VAMOS",VAMOS
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" tvg-name="LA LIGA SMARTBANK",LA LIGA SMARTBANK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" tvg-name="M+ LA LIGA SMARTBANK",LA LIGA SMARTBANK
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" tvg-name="MOVISTAR DEPORTES 1",MOVISTAR DEPORTES 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" tvg-name="M+ DEPORTES 1",DEPORTES 1
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/320px-Movistar_Deportes_2.svg.png" tvg-name="MOVISTAR DEPORTES 2",MOVISTAR DEPORTES 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/320px-Movistar_Deportes_2.svg.png" tvg-name="M+ DEPORTES 2",DEPORTES 2
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
