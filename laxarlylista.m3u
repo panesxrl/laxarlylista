@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="MOVISTAR LALIGA",LA LIGA TV
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="MOVISTAR LALIGA",LA LIGA TV (Opcion 2)
