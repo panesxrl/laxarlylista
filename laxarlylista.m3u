@@ -51,7 +51,7 @@ http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143400
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143420
 #EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS FHD " tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="MOVISTAR",#VAMOS FHD 
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143423
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID HD 1080P" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="AUTONOMICOS",TELEMADRID HD 1080P
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID HD 1080P" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="MOVISTAR",TELEMADRID HD 1080P
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153123
 #EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",M+ ESTRENOS FHD 
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143434
@@ -75,8 +75,6 @@ http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143483
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143486
 #EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="MOVISTAR",XTRM FHD 
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143492
-#EXTINF:-1 tvg-id="" tvg-name="US: Sundance TV FHD" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/sundance_channel_global.png" group-title="USA",US: Sundance TV FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/159531
 #EXTINF:-1 tvg-id="Dark" tvg-name="DARK RED FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="MOVISTAR",DARK RED FHD
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143491
 #EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS FHD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="MOVISTAR",SOMOS FHD  
@@ -119,7 +117,7 @@ http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143426
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/154519
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA FHD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LA LIGA FHD  
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153092
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK FHD" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="LA LIGA SMARTBANK TV",LA LIGA SMARTBANK FHD
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK FHD" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="MOVISTAR",LA LIGA SMARTBANK FHD
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153603
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR",M+ LA LIGA 2 FHD
 http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153678
