@@ -11,6 +11,8 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 1",DAZN 1
@@ -30,7 +32,7 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV",LA LIGA SMARTBANK
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV2",LA LIGA SMARTBANK 2
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" group-title="ACESTREAM" tvg-name="M+DEPORTESHD",DEPORTES 1
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/320px-Movistar_Deportes_2.svg.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
