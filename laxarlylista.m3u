@@ -7,6 +7,8 @@ acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA (Opcion 2)
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 2
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
@@ -15,8 +17,12 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 2
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 3
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1 (Opcion 2)
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 1",DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 2",DAZN 2
@@ -35,118 +41,127 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV2",LA LIGA SMARTBANK 2
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/320px-Movistar_Deportes_1.svg.png" group-title="ACESTREAM" tvg-name="M+DEPORTESHD",DEPORTES 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV2",LA LIGA SMARTBANK 3
+acestream://1104426e14b649eb23fee16698768544285de478
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTESHD",DEPORTES 1
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/320px-Movistar_Deportes_2.svg.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="MOVISTAR",LA 1 FHD
-http://ingenius-sstl.pro:8080/dw/dw/38198
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="MOVISTAR",LA 2 FHD 
-http://ingenius-sstl.pro:8080/dw/dw/38200
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="MOVISTAR",ANTENA 3 FHD 
-http://ingenius-sstl.pro:8080/dw/dw/38202
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="MOVISTAR",CUATRO FHD 
-http://ingenius-sstl.pro:8080/dw/dw/38204
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO FHD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="MOVISTAR",TELECINCO FHD  
-http://ingenius-sstl.pro:8080/dw/dw/38206
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="MOVISTAR",LA SEXTA FHD 
-http://ingenius-sstl.pro:8080/dw/dw/38208
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD " tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="MOVISTAR",#0 FHD 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 3
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-4gwsDPowJJs/AAAAAAAAAAI/AAAAAAAAAAA/u5ZcdysON7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ACESTREAM" tvg-name="TENNISTV",TENNIS TV
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+
+
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD " tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="MOVISTAR",#0
 http://ingenius-sstl.pro:8080/dw/dw/38323
-#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS FHD " tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="MOVISTAR",#VAMOS FHD 
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS FHD " tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="MOVISTAR",#VAMOS
 http://ingenius-sstl.pro:8080/dw/dw/61278
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID HD 1080P" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Telemadrid_Logo_new.png" group-title="MOVISTAR",TELEMADRID HD 1080P
-http://ingenius-sstl.pro:8080/dw/dw/362487
-#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",M+ ESTRENOS FHD 
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",M+ ESTRENOS
 http://ingenius-sstl.pro:8080/dw/dw/38325
-#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="MOVISTAR",M+ ESTRENOS 2 FHD
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="MOVISTAR",M+ ESTRENOS 2
 http://ingenius-sstl.pro:8080/dw/dw/87550
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",M+ CLASICOS FHD 
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",M+ CLASICOS
 http://ingenius-sstl.pro:8080/dw/dw/66247
-#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",M+ ACCION FHD
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",M+ ACCION
 http://ingenius-sstl.pro:8080/dw/dw/38326
-#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",M+ COMEDIA FHD 
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",M+ COMEDIA
 http://ingenius-sstl.pro:8080/dw/dw/38328
-#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",M+ DRAMA FHD 
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",M+ DRAMA
 http://ingenius-sstl.pro:8080/dw/dw/38329
-#EXTINF:-1 tvg-id="M. CINE ESPANOL HD" tvg-name="M. CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",M. CINE ESPAÑOL FHD
+#EXTINF:-1 tvg-id="M. CINE ESPANOL HD" tvg-name="M. CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",M. CINE ESPAÑOL
 http://ingenius-sstl.pro:8080/dw/dw/17630
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="LA RESISTENCIA " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" group-title="MOVISTAR",LA RESISTENCIA 
 http://ingenius-sstl.pro:8080/dw/dw/87554
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM FHD 
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM
 http://ingenius-sstl.pro:8080/dw/dw/38351
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD FHD 
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD
 http://ingenius-sstl.pro:8080/dw/dw/38349
-#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",M+ SERIES FHD 
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",M+ SERIES
 http://ingenius-sstl.pro:8080/dw/dw/38332
-#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",M+ SERIES 2 FHD 
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",M+ SERIES 2 
 http://ingenius-sstl.pro:8080/dw/dw/87552
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX FHD
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX
 http://ingenius-sstl.pro:8080/dw/dw/38342
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="MOVISTAR",AXN FHD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="MOVISTAR",AXN
 http://ingenius-sstl.pro:8080/dw/dw/38336
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT FHD 
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT
 http://ingenius-sstl.pro:8080/dw/dw/38350
-#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL
 http://ingenius-sstl.pro:8080/dw/dw/38345
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 FHD
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13
 http://ingenius-sstl.pro:8080/dw/dw/38347
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="MOVISTAR",COSMO FHD 
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="MOVISTAR",COSMO
 http://ingenius-sstl.pro:8080/dw/dw/38353
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC FHD 
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC
 http://ingenius-sstl.pro:8080/dw/dw/38338
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/BIOGRA.png" group-title="MOVISTAR",AMC BREAK FHD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/BIOGRA.png" group-title="MOVISTAR",AMC BREAK
 http://ingenius-sstl.pro:8080/dw/dw/197696
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="MOVISTAR",AMC CRIME FHD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="MOVISTAR",AMC CRIME
 http://ingenius-sstl.pro:8080/dw/dw/197698
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE FHD
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE
 http://ingenius-sstl.pro:8080/dw/dw/38340
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY FHD
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY
 http://ingenius-sstl.pro:8080/dw/dw/38344
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD " tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="MOVISTAR",ELLAS #V FHD 
-http://ingenius-sstl.pro:8080/dw/dw/198107
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LA LIGA FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/154519
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA FHD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LA LIGA FHD  
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153092
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK FHD" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="MOVISTAR",LA LIGA SMARTBANK FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153603
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR",M+ LA LIGA 2 FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/153678
-#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LIGA DE CAMPEONES FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR",M+ LIGA DE CAMPEONES FHD 
-http://ingenius-sstl.pro:8080/dw/dw/94001
-#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MOVISTAR",M+ LIGA DE CAMPEONES 2 FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/174099
-#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LIGA DE CAMPEONES 3 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MOVISTAR",M+ LIGA DE CAMPEONES 3 FHD 
-http://ingenius-sstl.pro:8080/dw/dw/298989
-#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+ DEPORTES FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR",M+ DEPORTES FHD 
-http://ingenius-sstl.pro:8080/dw/dw/61283
-#EXTINF:-1 tvg-id="M+DEPORTES2HD" tvg-name="M+ DEPORTES 2 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR",M+ DEPORTES 2 FHD 
-http://ingenius-sstl.pro:8080/dw/dw/61291
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 SD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR",M+ DEPORTES 3 SD 
-http://ingenius-sstl.pro:8080/dw/dw/61294
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="MOVISTAR",DAZN F1 FHD 
-http://ingenius-sstl.pro:8080/dw/dw/60410
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="M+ DAZN 1 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="MOVISTAR",M+ DAZN 1 FHD 
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143558
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="M+ DAZN 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="MOVISTAR",M+ DAZN 2 FHD
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143560
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="M+ DAZN 3 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="MOVISTAR",M+ DAZN 3 FHD 
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143562
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="M+ DAZN 4 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="MOVISTAR",M+ DAZN 4 FHD 
-http://blackvirtual.net:25461/iptv220/2cjj8qQLa8fE/143564
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="MOVISTAR",EUROSPORT 1 FHD
-http://ingenius-sstl.pro:8080/dw/dw/61297
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="MOVISTAR",EUROSPORT 2 HD 1080P
-http://ingenius-sstl.pro:8080/dw/dw/61300
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="MOVISTAR",NATIONAL GEOGRAPHIC FHD 
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="MOVISTAR",NATIONAL GEOGRAPHIC
 http://ingenius-sstl.pro:8080/dw/dw/38321
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="MOVISTAR",NAT GEO WILD FHD 
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="MOVISTAR",NAT GEO WILD
 http://ingenius-sstl.pro:8080/dw/dw/38322
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="MOVISTAR",ODISEA FHD
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="MOVISTAR",ODISEA
 http://ingenius-sstl.pro:8080/dw/dw/38314
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="MOVISTAR",HISTORIA FHD 
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="MOVISTAR",HISTORIA
 http://ingenius-sstl.pro:8080/dw/dw/38317
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="MOVISTAR",DISCOVERY CHANNEL FHD 
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="MOVISTAR",DISCOVERY CHANNEL
 http://ingenius-sstl.pro:8080/dw/dw/38316
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="MOVISTAR",CAZA Y PESCA
+http://ingenius-sstl.pro:8080/dw/dw/38309
 
+
+#EXTINF:-1 tvg-name="F1TV | Valtteri Bottas Helmet Camera" group-title="CAMARAS F1 ",F1TV | Valtteri Bottas Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143751
+#EXTINF:-1 tvg-name="F1TV | Lando Norris Helmet Camera" group-title="CAMARAS F1 ",F1TV | Lando Norris Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143752
+#EXTINF:-1 tvg-name="F1TV | Sergio Perez Helmet Camera" group-title="CAMARAS F1 ",F1TV | Sergio Perez Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143753
+#EXTINF:-1 tvg-name="F1TV | Nicholas Latifi Helmet Camera" group-title="CAMARAS F1 ",F1TV | Nicholas Latifi Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143754
+#EXTINF:-1 tvg-name="F1TV | Sebastian Vettel Helmet Camera" group-title="CAMARAS F1 ",F1TV | Sebastian Vettel Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143755
+#EXTINF:-1 tvg-name="F1TV | Alexander Albon Helmet Camera" group-title="CAMARAS F1 ",F1TV | Alexander Albon Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143756
+#EXTINF:-1 tvg-name="F1TV | Pierre Gasly Helmet Camera" group-title="CAMARAS F1 ",F1TV | Pierre Gasly Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143757
+#EXTINF:-1 tvg-name="F1TV | Daniel Ricciardo Helmet Camera" group-title="CAMARAS F1 ",F1TV | Daniel Ricciardo Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143758
+#EXTINF:-1 tvg-name="F1TV | Yuki Tsunoda  Helmet Camera" group-title="CAMARAS F1 ",F1TV | Yuki Tsunoda  Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143759
+#EXTINF:-1 tvg-name="F1TV | Kevin Magnussen Camera" group-title="CAMARAS F1 ",F1TV | Kevin Magnussen Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143760
+#EXTINF:-1 tvg-name="F1TV | Lewis Hamilton Helmet Camera" group-title="CAMARAS F1 ",F1TV | Lewis Hamilton Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143761
+#EXTINF:-1 tvg-name="F1TV | George Russell Helmet Camera" group-title="CAMARAS F1 ",F1TV | George Russell Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143762
+#EXTINF:-1 tvg-name="F1TV | Charles Leclerc Helmet Camera" group-title="CAMARAS F1 ",F1TV | Charles Leclerc Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143763
+#EXTINF:-1 tvg-name="F1TV | Mick Schumacher Helmet Camera" group-title="CAMARAS F1 ",F1TV | Mick Schumacher Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143764
+#EXTINF:-1 tvg-name="F1TV | Carlos Sainz Helmet Camera" group-title="CAMARAS F1 ",F1TV | Carlos Sainz Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143765
+#EXTINF:-1 tvg-name="F1TV | Lance Stroll Helmet Camera" group-title="CAMARAS F1 ",F1TV | Lance Stroll Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143766
+#EXTINF:-1 tvg-name="F1TV | Max Verstappen Helmet Camera" group-title="CAMARAS F1 ",F1TV | Max Verstappen Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143767
+#EXTINF:-1 tvg-name="F1TV | Zhou Guanyu Helmet Camera" group-title="CAMARAS F1 ",F1TV | Zhou Guanyu Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143768
+#EXTINF:-1 tvg-name="F1TV | Esteban Ocon Helmet Camera" group-title="CAMARAS F1 ",F1TV | Esteban Ocon Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143769
+#EXTINF:-1 tvg-name="F1TV | Fernando Alonso Helmet Camera" group-title="CAMARAS F1 ",F1TV | Fernando Alonso Helmet Camera
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143770
+#EXTINF:-1 tvg-name="F1TV | Pit Lane Channel" group-title="CAMARAS F1 ",F1TV | Pit Lane Channel
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143771
+#EXTINF:-1 tvg-name="F1TV | Driver Tracker Channel" group-title="CAMARAS F1 ",F1TV | Driver Tracker Channel
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143772
+#EXTINF:-1 tvg-name="F1TV | Data Channel" group-title="CAMARAS F1 ",F1TV | Data Channel
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143773
+#EXTINF:-1 tvg-name="F1TV | Practise / Qualifying / Main Race" group-title="CAMARAS F1 ",F1TV | Practise / Qualifying / Main Race
+http://blackvirtual.net:25461/agarciaro70/dDvnPEQVhfER/143774
