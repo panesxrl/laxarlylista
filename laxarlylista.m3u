@@ -3,6 +3,8 @@
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga HD",LA LIGA TV (Opcion 2)
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga HD",LA LIGA TV (Opcion 3)
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 2
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA
@@ -49,6 +51,10 @@ acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 3
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 4
+acestream://08db089084ddbaceba7c239817407bf99708b9ad
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 5
+acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/1200px-Logo_Tennis_Channel.svg.png" group-title="ACESTREAM" tvg-name="TENNISCHANNEL",TENNIS CHANNEL
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 
