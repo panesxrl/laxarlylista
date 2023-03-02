@@ -37,7 +37,7 @@ acestream://149a38e333de920753f1388c43247283bdb05f5b
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/400px-Eurosport_2_Logo_2015.png" group-title="ACESTREAM" tvg-name="EUROSPORT2HD",EUROSPORT 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" group-title="ACESTREAM" tvg-name="M+ #VAMOSHD",VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" group-title="ACESTREAM" tvg-name="M+ #VAMOSHD",#VAMOS
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV",LA LIGA SMARTBANK
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
@@ -49,11 +49,11 @@ acestream://1104426e14b649eb23fee16698768544285de478
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES3HD",DEPORTES 3
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES4HD",DEPORTES 4
 acestream://08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 5
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/1200px-Logo_Tennis_Channel.svg.png" group-title="ACESTREAM" tvg-name="TENNISCHANNEL",TENNIS CHANNEL
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
