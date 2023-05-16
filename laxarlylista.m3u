@@ -14,7 +14,7 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA (Opcion 2)
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 2
-acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES (Opcion 2)
@@ -26,7 +26,7 @@ acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1 (Opcion 2)
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 1",DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 2",DAZN 2
@@ -121,5 +121,5 @@ http://ingenius-sstl.pro:8080/dw/dw/38314
 http://ingenius-sstl.pro:8080/dw/dw/38317
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="MOVISTAR",DISCOVERY CHANNEL
 http://ingenius-sstl.pro:8080/dw/dw/38316
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="MOVISTAR",CAZA Y PESCA
+#EXTINF:-1 tvg-id="CAZAPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="MOVISTAR",CAZA Y PESCA
 http://ingenius-sstl.pro:8080/dw/dw/38309
