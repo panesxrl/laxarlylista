@@ -1,22 +1,20 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga HD",LA LIGA TV
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga HD",LA LIGA TV (Opcion 2)
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 2
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 3 HD",LA LIGA TV 3
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-logo="https://futbar.com/logos/laliga_white_logo.png" group-title="ACESTREAM" tvg-name="M+ LaLiga Bar HD",LA LIGA TV BAR
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA (Opcion 2)
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 2
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES (Opcion 2)
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 2
@@ -24,9 +22,9 @@ acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 3
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1
-acestream://acestream://5789ca155323664edd293b848606688edf803f4d
+acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1 (Opcion 2)
-acestream://acestream://9dad717d99b29a05672166258a77c25b57713dd5
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 1",DAZN 1
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 2",DAZN 2
@@ -36,29 +34,27 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="ACESTREAM" tvg-name="DAZN 4",DAZN 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" group-title="ACESTREAM" tvg-name="EUROSPORT1HD",EUROSPORT 1
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/400px-Eurosport_2_Logo_2015.png" group-title="ACESTREAM" tvg-name="EUROSPORT2HD",EUROSPORT 2
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/800px-Vamos.svg.png" group-title="ACESTREAM" tvg-name="M+ #VAMOSHD",#VAMOS
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV",LA LIGA SMARTBANK
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LaLiga_SmartBank.svg/800px-LaLiga_SmartBank.svg.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV2",LA LIGA SMARTBANK 2
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTESHD",DEPORTES 1
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES3HD",DEPORTES 3
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES4HD",DEPORTES 4
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 5
-acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 6
-acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/1200px-Logo_Tennis_Channel.svg.png" group-title="ACESTREAM" tvg-name="TENNISCHANNEL",TENNIS CHANNEL
-acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 
 
 
