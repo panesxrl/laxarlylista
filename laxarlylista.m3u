@@ -70,9 +70,9 @@ acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="ACESTREAM" tvg-name="LaLiga SmartbankTV2",LALIGA TV HYPERMOTION 2
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="IPTV" tvg-name="TELEDEPORTE",TELEDEPORTE
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="ACESTREAM" tvg-name="TELEDEPORTE",TELEDEPORTE
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="IPTV" tvg-name="GOL PLAY",GOL PLAY
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ACESTREAM" tvg-name="GOL PLAY",GOL PLAY
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 
