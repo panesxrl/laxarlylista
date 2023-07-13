@@ -5,13 +5,13 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 2
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 3 HD",LA LIGA TV 3
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 4",LA LIGA TV 4
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 5",LA LIGA TV 5
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 2 HD",LA LIGA TV 6
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="ACESTREAM" tvg-name="M+ LaLiga 6",LA LIGA TV 6
 acestream://c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ACESTREAM" tvg-name="DAZN LaLigaHD",DAZN LA LIGA
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -19,19 +19,19 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 2
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga3",DAZN LA LIGA 3
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga4",DAZN LA LIGA 4
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga2 HD",DAZN LA LIGA 5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="ACESTREAM" tvg-name="DAZN LaLiga5",DAZN LA LIGA 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES
 acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES (Opcion 2)
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES2",LIGA DE CAMPEONES 2
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES",LIGA DE CAMPEONES 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ACESTREAM" tvg-name="M+LCAMPEONES3",LIGA DE CAMPEONES 3
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="ACESTREAM" tvg-name="DAZN F1 HD",DAZN F1
 acestream://5789ca155323664edd293b848606688edf803f4d
@@ -41,9 +41,9 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="ACESTREAM" tvg-name="DAZN 2",DAZN 2
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M3SD.png" group-title="ACESTREAM" tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="ACESTREAM" tvg-name="DAZN 3",DAZN 3
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M4SD.png" group-title="ACESTREAM" tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="ACESTREAM" tvg-name="DAZN 4",DAZN 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" group-title="ACESTREAM" tvg-name="EUROSPORT1HD",EUROSPORT 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -59,123 +59,15 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="ACESTREAM" tvg-name="M+DEPORTES2HD",DEPORTES 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="ACESTREAM" tvg-name="M+DEPORTES3HD",DEPORTES 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="ACESTREAM" tvg-name="M+DEPORTES3",DEPORTES 3
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="ACESTREAM" tvg-name="M+DEPORTES4HD",DEPORTES 4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="ACESTREAM" tvg-name="M+DEPORTES4",DEPORTES 4
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5",DEPORTES 5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 6
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="ACESTREAM" tvg-name="M+DEPORTES6",DEPORTES 6
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="ACESTREAM" tvg-name="M+DEPORTES5HD",DEPORTES 7
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="ACESTREAM" tvg-name="M+DEPORTES7",DEPORTES 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/1200px-Logo_Tennis_Channel.svg.png" group-title="ACESTREAM" tvg-name="TENNISCHANNEL",TENNIS CHANNEL
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
-
-
-
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 FHD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="MOVISTAR",La 1 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178033
-#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="MOVISTAR",La 2 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178036
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 FHD" tvg-logo="http://discusfish.xyz:25461/images/73f4108243a4e9e65888ca4d7b80270b.jpg" group-title="MOVISTAR",Antena 3 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178039
-#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="Cuatro FHD" tvg-logo="http://discusfish.xyz:25461/images/488e788a513046c2ac746ccf3399cce5.png" group-title="MOVISTAR",Cuatro FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178042
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco FHD" tvg-logo="http://discusfish.xyz:25461/images/655f3f50095c2c8ba3782343ed632dcc.png" group-title="MOVISTAR",Telecinco FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/181913
-#EXTINF:-1 tvg-id="lasxta.es" tvg-name="La Sexta FHD" tvg-logo="http://discusfish.xyz:25461/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="MOVISTAR",La Sexta FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178047
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD " tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="MOVISTAR",#0
-http://botijo.com.es:2082/Primitivo/Primitivo/178072
-#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS FHD " tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="MOVISTAR",#VAMOS
-http://botijo.com.es:2082/Primitivo/Primitivo/151639
-#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M. Accion FHD" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="MOVISTAR",M. Accion FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178075
-#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M. Estrenos FHD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="MOVISTAR",M. Estrenos FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178078
-#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="Estrenos 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="MOVISTAR",Estrenos 2 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178081
-#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M. Comedia FHD" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="MOVISTAR",M. Comedia FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178084
-#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M. Dcine Espanyol FHD" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="MOVISTAR",M. Dcine Espanyol FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178087
-#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M. Drama FHD" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="MOVISTAR",M. Drama FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178090
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M. Clasicos FHD" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="MOVISTAR",M. Clasicos FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178093
-#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M. Series FHD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="MOVISTAR",M. Series FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178096
-#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M. Series 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="MOVISTAR",M. Series 2 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178099
-#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox FHD" tvg-logo="http://discusfish.xyz:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="MOVISTAR",Fox FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178108
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN FHD" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="MOVISTAR",AXN FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178114
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White FHD" tvg-logo="http://discusfish.xyz:25461/images/58afbb161e884d432eefb2b825e2326c.jpg" group-title="MOVISTAR",AXN White FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178117
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="http://discusfish.xyz:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="MOVISTAR",TCM FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178120
-#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SYFY FHD" tvg-logo="http://discusfish.xyz:25461/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="MOVISTAR",SYFY FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178123
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="Calle 13 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="MOVISTAR",Calle 13 FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178126
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo FHD" tvg-logo="http://discusfish.xyz:25461/images/32a8bd4d676f4fef0920c7da8db2bad7.jpg" group-title="MOVISTAR",Cosmo FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178129
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy Central FHD" tvg-logo="http://discusfish.xyz:25461/images/1de023994aa38e685de878126d18d59a.png" group-title="MOVISTAR",Comedy Central FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178132
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood FHD" tvg-logo="http://discusfish.xyz:25461/images/13a224ef920af18191b809f1a9d48c19.png" group-title="MOVISTAR",Hollywood FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178135
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://discusfish.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="MOVISTAR",AMC FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178144
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC Break FHD" tvg-logo="" group-title="MOVISTAR",AMC Break FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/219260
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC Crime FHD" tvg-logo="" group-title="MOVISTAR",AMC Crime FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/219263
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Warner TV España FHD" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="MOVISTAR",Warner TV España FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178147
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="Sundance FHD" tvg-logo="http://discusfish.xyz:25461/images/0e450d1e32291326bded0e1a8b9b4c20.jpg" group-title="MOVISTAR",Sundance FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178150
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="MOVISTAR",XTRM FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178154
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks FHD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="MOVISTAR",DreamWorks FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178178
-#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="Nickelodeon" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="MOVISTAR",Nickelodeon
-http://botijo.com.es:2082/Primitivo/Primitivo/178168
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NatGeo FHD" tvg-logo="http://discusfish.xyz:25461/images/18234861052ece494b63430305fe66ac.png" group-title="MOVISTAR",NatGeo FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178184
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NatGeo  Wild FHD" tvg-logo="http://discusfish.xyz:25461/images/0e8b78b2b510ab122ef0d58dd614a886.png" group-title="MOVISTAR",NatGeo  Wild FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178185
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA 4K" tvg-logo="" group-title="MOVISTAR",CANAL ODISEA 4K
-http://botijo.com.es:2082/Primitivo/Primitivo/181914
-#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA UHD 4K" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="MOVISTAR",ES: CANAL COCINA UHD 4K
-http://botijo.com.es:2082/Primitivo/Primitivo/372098
-#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA UHD 4K" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age%3D3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521463181298&ssbinary=true" group-title="MOVISTAR",ES: DECASA UHD 4K
-http://botijo.com.es:2082/Primitivo/Primitivo/372099
-#EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia HD" tvg-logo="" group-title="MOVISTAR",Movistar La Resistencia HD
-http://botijo.com.es:2082/Primitivo/Primitivo/178191
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="Crimen + Investigacion FHD" tvg-logo="http://discusfish.xyz:25461/images/909b8a5132faf105826316f1b6c7258d.jpg" group-title="MOVISTAR",Crimen + Investigacion FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178194
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia FHD" tvg-logo="http://discusfish.xyz:25461/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="MOVISTAR",Historia FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178197
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery FHD" tvg-logo="http://discusfish.xyz:25461/images/bd64fc7095a970a1496ea59c11f5c7fd.jpg" group-title="MOVISTAR",Discovery FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178200
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Blaze FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dzLj8IqUVB8uX-cS7IlZLZsNcMv_TiJF4fXTXJv7nVuQo4aq&s" group-title="MOVISTAR",Blaze FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178209
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="MOVISTAR",Caza y Pesca FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178215
-#EXTINF:-1 tvg-id="Dark" tvg-name="DARK FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="MOVISTAR",DARK FHD
-http://botijo.com.es:2082/Primitivo/Primitivo/178220
-#EXTINF:-1 tvg-id="Sol Música" tvg-name="SOL MUSICA" tvg-logo="" group-title="MOVISTAR",SOL MUSICA
-http://botijo.com.es:2082/Primitivo/Primitivo/210059
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV 00S" tvg-logo="" group-title="MOVISTAR",ES: MTV 00S
-http://botijo.com.es:2082/Primitivo/Primitivo/210563#EXTINF:-1 tvg-id="" tvg-name="MTV Espana" tvg-logo="" group-title="MOVISTAR",MTV Espana
-http://botijo.com.es:2082/Primitivo/Primitivo/219646
-#EXTINF:-1 tvg-id="" tvg-name="El Toro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="MOVISTAR",El Toro TV
-http://botijo.com.es:2082/Primitivo/Primitivo/178048
-
-
-
-
-
-
