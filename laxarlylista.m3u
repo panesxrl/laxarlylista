@@ -153,3 +153,43 @@ http://app.plume4k.xyz:80/mehdi2020/mehdi2020/692558
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295211
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="IPTV" tvg-name="GOL PLAY",GOL PLAY
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295214
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="CINE" tvg-name="M+#0",M+ #0
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295101
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="CINE" tvg-name="M+Estrenos2",M+ ESTRENOS
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295082
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="CINE" tvg-name="M+Estrenos",M+ ESTRENOS 2
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295083
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE" tvg-name="M+Clasicos",M+ CLASICOS
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/391139
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE" tvg-name="M+Accion",M+ ACCION
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295087
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE" tvg-name="M+Comedia",M+ COMEMDIA
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/11
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE" tvg-name="M+Drama",M+ DRAMA
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295086
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE" tvg-name="M+CineEspanol",M+ CINE ESPAÑOL
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295089
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="CINE" tvg-name="WarnerTV",WARNER TV
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/717076
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="CINE" tvg-name="Hollywood",HOLLYWOOD
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295081
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="CINE" tvg-name="Fox",FOX
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295093
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="CINE" tvg-name="ComedyCentral",COMEDY CENTRAL
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295085
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="CINE" tvg-name="Calle13",CALLE 13
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295094
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/axn.png" group-title="CINE" tvg-name="AXN",AXN
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295088
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/set.png" group-title="CINE" tvg-name="AXNMovies",AXN MOVIES
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295103
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/amc.png" group-title="CINE" tvg-name="AMC",AMC
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295092
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="CINE" tvg-name="SYFY",SYFY
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295098
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="CINE" tvg-name="Cosmo",COSMO
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295097
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/tcm.png" group-title="CINE" tvg-name="TCM",TCM
+http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295099
+
