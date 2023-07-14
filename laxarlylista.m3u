@@ -164,7 +164,7 @@ http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295083
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/391139
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE" tvg-name="M+Accion",M+ ACCION
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295087
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE" tvg-name="M+Comedia",M+ COMEMDIA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE" tvg-name="M+Comedia",M+ COMEDIA
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/11
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE" tvg-name="M+Drama",M+ DRAMA
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295086
@@ -184,8 +184,6 @@ http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295094
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295088
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="CINE" tvg-name="AXNMovies",AXN MOVIES
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295103
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="CINE" tvg-name="AMC",AMC
-http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295092
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="CINE" tvg-name="SYFY",SYFY
 http://app.plume4k.xyz:80/mehdi2020/mehdi2020/295098
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="CINE" tvg-name="Cosmo",COSMO
